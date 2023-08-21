@@ -1,6 +1,6 @@
 # Open Public Beta (OPB) for Counter-Strike 2
 
-Welcome to the Open Public Beta (OPB) for Counter-Strike 2! This is a public beta version of our game that you can download and test.
+Welcome to the Open Public Beta (OPB) for Counter-Strike 2! This is a public beta version of our game that you can download and test online.
 
 ## How to Download
 
@@ -12,7 +12,7 @@ To download the Open Public Beta, follow these steps:
 
 3. Download the executable file for your operating system. You can find the Windows executable [here](https://github.com/Grind420/CS2-OPB/releases/download/OPB/CS2-OPB.exe).
 
-4. Once the download is complete, you can run the executable to start playing the Open Public Beta of Counter-Strike 2!
+4. Once the download is complete, you can run the executable to start installing the Open Public Beta of Counter-Strike 2!
 
 ## About the Pre-Release
 
